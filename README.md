@@ -52,6 +52,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amitnegijj&show_icons=true&theme=dark&hide_border=false" width="45%"/>
 </p>
 
+## 🗺️ Contribution Map
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitnegijj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+
 ---
 
 > 🚀 *"Strive for progress, not perfection."* – Let's build something impactful together!
