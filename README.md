@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=A+Passionate+Frontend+Developer!;Crafting+Clean+%26+Responsive+Interfaces!;Always+Learning+%26+Exploring+New+Tech!;Let's+Create+Something+Awesome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer!;Crafting+Clean+%26+Responsive+Interfaces!;Always+Learning+%26+Exploring+New+Tech!;Let's+Create+Something+Awesome!"/>
 </h3>
 
 ---
 
 ## 🌟 About Me
 
-- 👨‍💻 I'm a frontend developer passionate about building **clean**, **responsive**, and **user-friendly** interfaces.
+- 👨‍💻 I'm a fullstack developer passionate about building **clean**, **responsive**, and **user-friendly** interfaces.
 - 🌱 Currently exploring: **Next.js**, **Node.js**, **MongoDB**, and diving deeper into **TypeScript**.
 - 📬 Reach out: **[amitnegijj29102001@gmail.com](mailto:amitnegijj29102001@gmail.com)**
 
@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrpitgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arrpitgupta&show_icons=true&theme=dark&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitnegijj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitnegijj&show_icons=true&theme=dark&hide_border=false" width="45%"/>
 </p>
 
 ---
