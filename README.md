@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Amit</h1>
 
 <h3 align="center">
@@ -53,5 +54,4 @@
 
 ---
 
-> 🚀 *“Strive for progress, not perfection.”* – Let’s build something impactful together!
-
+> 🚀 *"Strive for progress, not perfection."* – Let's build something impactful together!
