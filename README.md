@@ -15,11 +15,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
